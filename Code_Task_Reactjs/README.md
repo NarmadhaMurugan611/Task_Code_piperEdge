@@ -2,7 +2,7 @@ I have completed the task using front end Technologies name called React js.
 
 
 
-###for fetch the data i have used json link that you have provided
+###To fetch the data i have used json link that you have provided and converted into a node js api because of cors origin.
 
 
 ### https://piperedge.com/screening-test/assets/json/products.json
