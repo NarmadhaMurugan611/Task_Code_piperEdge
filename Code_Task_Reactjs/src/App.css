@@ -1,0 +1,65 @@
+* {
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 15px;
+}
+
+table {
+    width: 95%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    margin-top: 20px;
+}
+
+th {
+    border: 1px solid white;
+    font-size: 19px;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+td {
+    border-collapse: none;
+    border: 2px solid black;
+    padding: 0px 0px 0px 0px;
+}
+
+.to-shop {
+    margin-top: 20px;
+}
+
+.shop-app {
+    margin-top: 20px;
+}
+
+.add-to-cart-button {
+    background-color: green;
+    width: 100%;
+    color: white;
+    border: 1px solid white;
+
+}
+
+.remove-from-cart-button {
+    background-color: red;
+    width: 100%;
+    color: white;
+    border: 1px solid white !important;
+}
+
+.addcart {
+    border: 1px solid white !important;
+
+}
+
+.remove-cart {
+    border: 1px solid white !important;
+}
